@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jacob Sacks"
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   bio              : "CSE PhD Student"
   location         : "Seattle, WA, USA"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jsacks3"
+  github           : "jisacks"
   google_plus      :
   keybase          :
   instagram        :
