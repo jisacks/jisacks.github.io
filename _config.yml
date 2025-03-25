@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jacob Sacks"
 title_separator          : "-"
 name                     : &name "Jacob Sacks"
-description              : &description "CSE PhD Student"
+description              : &description "Postdoc in CSE @ UW"
 url                      : "https://jisacks.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jisacks/jisacks.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jacob Sacks"
   avatar           : "profile.png"
-  bio              : "CSE PhD Student"
+  bio              : "Postdoc in CSE @ UW"
   location         : "Seattle, WA, USA"
   employer         :
   pubmed           : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "therealjsacks3"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
